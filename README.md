@@ -1,5 +1,3 @@
-
-
 <div align="center">
   
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -46,7 +44,7 @@ This project was developed as part of my internship at *Jspiders Bengaluru* (Mar
 
 ## 📁 Featured Projects
 
-### 🧳 [Travel Planner](https://github.com/Thousifibrahim/Travel-Planner)
+###  [Travel Planner](https://github.com/Thousifibrahim/Travel-Planner)
 *Internship Team Project | Java & CSS*
 
 A comprehensive travel planning application developed as part of my internship experience.
