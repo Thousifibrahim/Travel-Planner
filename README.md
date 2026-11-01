@@ -1,5 +1,7 @@
 # Travel-Planner
 
+![stack: CSS](https://img.shields.io/badge/stack-CSS-1572B6) ![stack: Java](https://img.shields.io/badge/stack-Java-B07219)
+
 Internship Team Project
 
 ## Overview
